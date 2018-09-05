@@ -46,6 +46,6 @@ class PlantTest {
     }
 
     @Test fun test_toString() {
-        assertEquals("Tomato1", plant.toString())
+        assertEquals("Tomato", plant.toString())
     }
 }
